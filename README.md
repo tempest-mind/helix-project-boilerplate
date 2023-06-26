@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-project-boilerplate--tempest-mind.hlx.page/
+- Live: https://main--helix-project-boilerplate--tempest-mind.hlx.live/
 
 ## Installation
 
